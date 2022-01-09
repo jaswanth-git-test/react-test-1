@@ -1,0 +1,19 @@
+body {
+  background: #ba0747;
+}
+.card {
+  background: rgba(97, 7, 7, 0.35);
+  border-radius: 10px;
+}
+.searchfield {
+  background: #e5e5e5;
+}
+.btn {
+  margin-top: 10px;
+}
+.form-control {
+  max-width: 200px;
+}
+.task-card {
+  margin: 10px;
+}
